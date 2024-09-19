@@ -1,0 +1,1 @@
+# Opencv Live Barcode Reader for Windows
